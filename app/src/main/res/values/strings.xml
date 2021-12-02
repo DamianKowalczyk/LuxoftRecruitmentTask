@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LuxsoftRecruitment</string>
+    <string name="movies">Movies</string>
+    <string name="movie_image_description">Movie image</string>
+    <string name="description_title_label">Description</string>
+    <string name="details_fragment_title">Details</string>
+    <string name="menu_item_favourite">mark as favourite</string>
+    <string name="menu_item_search">Search movie</string>
+    <string name="average_score_title">Average score:</string>
+    <string name="release_date_title">Release date:</string>
+</resources>

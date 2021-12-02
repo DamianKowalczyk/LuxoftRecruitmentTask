@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_side_margin">5dp</dimen>
+    <dimen name="gallery_header_margin">10dp</dimen>
+    <dimen name="card_bottom_margin">5dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="plant_item_image_height">130dp</dimen>
+    <dimen name="margin_normal">5dp</dimen>
+    <dimen name="margin_big">15dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="toolbar_top_padding">75dp</dimen>
+    <dimen name="favourite_button_size">44dp</dimen>
+    <dimen name="favourite_button_margin">10dp</dimen>
+</resources>
